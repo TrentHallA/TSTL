@@ -1,3 +1,5 @@
+# Note: This is just a fork of Microsoft's C++ Standard Lib for my own manipulation. Thank you Microsoft for your implementation!
+
 # Microsoft's C++ Standard Library
 
 This is the official repository for Microsoft's implementation of the C++ Standard Library (also known as the STL),
